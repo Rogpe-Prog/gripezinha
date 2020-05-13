@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/gripezinha/static/js/main.7f52dfc9.chunk.js",
+    "main.js.map": "/gripezinha/static/js/main.7f52dfc9.chunk.js.map",
+    "runtime-main.js": "/gripezinha/static/js/runtime-main.24912129.js",
+    "runtime-main.js.map": "/gripezinha/static/js/runtime-main.24912129.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/gripezinha/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.eab551c9.chunk.js": "/gripezinha/static/js/2.eab551c9.chunk.js",
+    "static/js/2.eab551c9.chunk.js.map": "/gripezinha/static/js/2.eab551c9.chunk.js.map",
+    "index.html": "/gripezinha/index.html",
+    "precache-manifest.91f5c5fa3992a3abf67670acb3cafc24.js": "/gripezinha/precache-manifest.91f5c5fa3992a3abf67670acb3cafc24.js",
+    "service-worker.js": "/gripezinha/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/gripezinha/static/css/2.829c9cb5.chunk.css.map",
+    "static/js/2.eab551c9.chunk.js.LICENSE.txt": "/gripezinha/static/js/2.eab551c9.chunk.js.LICENSE.txt",
+    "static/media/kod.png": "/gripezinha/static/media/kod.2138f062.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24912129.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.eab551c9.chunk.js",
+    "static/js/main.7f52dfc9.chunk.js"
+  ]
+}
